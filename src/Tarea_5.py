@@ -1,1 +1,1 @@
-print('Charly una vez dijo: "Python is in the air."')
+print('Gabe Newell una vez dijo: ''"El futuro de los videojuegos es permitir que las personas creen, compartan y modifiquen sus propias experiencias."')

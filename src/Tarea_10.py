@@ -1,3 +1,3 @@
-friends = ["Fonseca", "Victor", "Alan", "Gil"]
-for friend in friends:
-    print(friend)
+amigos = ["Fonseca", "Victor", "Alan", "Gil"]
+for amigo in amigos:
+    print(amigo)

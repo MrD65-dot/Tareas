@@ -1,4 +1,4 @@
-pizzas = ["Peperoni", "Queso", "Tres Carnes"]
+pizzas = ["Pepperoni", "Queso", "Tres Carnes"]
 
 
 for pizza in pizzas:
